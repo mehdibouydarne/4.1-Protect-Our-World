@@ -1,1 +1,1 @@
-Fait en 02/23 / + : l'utilisation des EM, l'integration d'une animation full responsive / - : (site trop récent pour avoir assez de recul sur ses défauts majeurs) / Autre : le site n'est pas fini et doit être livré lundi 20/02/23
+Fait en 02/23 / + : l'utilisation des EM, l'integration d'une animation full responsive / - : (site trop récent pour avoir assez de recul sur ses défauts majeurs) / Autre : le site n'est pas fini et doit être livré lundi 27/02/23
